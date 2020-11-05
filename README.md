@@ -36,8 +36,8 @@
 ---
 
 
-<img align="left" alt="Ranveer's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranveerrajput&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Ranveer's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranveerrajput&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
+<img align="left" alt="Rutuj's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=rutuj-01&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Rutuj's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutuj-01&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
 
 [codechef]:https://www.codechef.com/users/rutuj_01
