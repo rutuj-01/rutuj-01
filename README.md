@@ -1,6 +1,6 @@
 ### 👋Hi there, I'm Rutuj 
 
-- 📱 I am currently working on APP DEVELOPMENT
+- 📱 I am currently working on WEB DEVELOPMENT
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate with front-end developers.
 
